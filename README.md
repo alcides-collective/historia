@@ -1,4 +1,4 @@
-# Zmiany muzycznej kultury europy na przestrzeni xix wieku
+# Zmiany muzycznej kultury europy na przestrzeni XIX wieku
 
 Kultura muzyczna Europy przeszła wiele znaczących zmian na przestrzeni XIX wieku. Poniżej przedstawiam kilka kluczowych trendów i zmian, które miały miejsce w tym okresie:
 
@@ -20,9 +20,9 @@ Wszystkie te trendy i zmiany miały głęboki wpływ na kształtowanie kultury m
 
 Klasycyzm to styl artystyczny, który nawiązywał do antyku klasycznego, charakteryzujący się porządkiem, harmonią i równowagą. W muzyce klasycyzm obejmował okres od około 1750 do 1820 roku, a więc czas, w którym tworzyli tacy kompozytorzy jak Haydn, Mozart, czy wczesny Beethoven. Główne założenia klasycyzmu w muzyce obejmują:
 
-**Wyważenie formy i wyrazu **- Kompozycje klasyczne dążą do idealnej równowagi między formą (strukturą kompozycji) a wyrazem (emocjonalną treścią dzieła). Formy muzyczne są zazwyczaj przejrzyste i łatwo zrozumiałe.
+**Wyważenie formy i wyrazu** - Kompozycje klasyczne dążą do idealnej równowagi między formą (strukturą kompozycji) a wyrazem (emocjonalną treścią dzieła). Formy muzyczne są zazwyczaj przejrzyste i łatwo zrozumiałe.
 
-**Harmonia i melodia **- W muzyce klasycznej, harmonia i melodia są równie ważne. Melodie są często prostsze i bardziej "śpiewne" niż w baroku, a harmonie są zrozumiałe i wyważone.
+**Harmonia i melodia** - W muzyce klasycznej, harmonia i melodia są równie ważne. Melodie są często prostsze i bardziej "śpiewne" niż w baroku, a harmonie są zrozumiałe i wyważone.
 
 **Kontrast** - Kontrast między tematami, tonacjami i nastrój jest istotnym elementem muzyki klasycznej.
 
